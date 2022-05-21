@@ -1,0 +1,248 @@
+{
+    "name": "ZLite-Userbot",
+    "description": "سـورس زد-لايت التجـريبـي التـابع لـ زدثــون مع جلسـات متعـدده لـ تنصيب جمـاعـي بتنصـيب واحـد . . . بـدون حظـر + بـدون اختـراقات . . . امـان 100%",
+    "logo": "https://telegra.ph/file/c91c09fb188f0f281e628.jpg",
+    "repository": "https://github.com/ZThon-Ar/ZLite-Userbot",
+    "env": {
+        "STRING_SESSION1": {
+            "description": "كـود جلسـة بايـروجـرام .. هنـا الاسـاسيـه واذا تريـد تنصـب لـ اصـدقـائـك جمـاعـي معـك بنفـس التنصـيب ضيـف كـوداتهـم بالمربعـات الاخـرى",
+            "required": true
+        },
+        "STRING_SESSION2": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION3": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION4": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION5": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION6": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION7": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION8": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION9": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION10": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION11": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION12": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION13": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION14": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION15": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION16": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION17": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION18": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION19": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION20": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION21": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION22": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION23": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION24": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION25": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION26": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION27": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION28": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION29": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION30": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION31": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION32": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION33": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION34": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION35": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION36": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION37": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION38": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION39": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION40": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION41": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION42": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION43": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION44": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION45": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION46": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION47": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION48": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION49": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "STRING_SESSION50": {
+            "description": "كـود جلسـة بايـروجـرام",
+            "required": false
+        },
+        "API_ID": {
+            "description": "كـود ايبي ايـدي〔 App id 〕الصغيـر",
+            "required": true
+        },
+        "MONGO_DB": {
+            "description": "اتـركهـا فـارغـه",
+            "required": false
+        },
+        "LOG_GROUP": {
+            "description": "ايـدي كـروب السجـل",
+            "required": false
+        },
+        "SUDO_USERS": {
+            "description": "ايديـات مطـورين مسـاعدين خـلي مسـافه بين كـل ايـدي والثـاني .. ضـروري تضـيف ايديـك هنـا",
+            "required": true
+        },
+        "HEROKU_API": {
+            "description": "كـــود مفتـــاح هيروكـــو - تروح ع الرابـط » https://dashboard.heroku.com/account  ع آخـر خانـه وتنسـخ الكـود لهنـا",
+            "required": false
+        },
+        "HEROKU_APP_NAME": {
+            "description": "اســـم التطبيـــق - نفـس اول مربـع بالقائمـة نسـخ لصـق حـروف انكلـش صغيـره",
+            "required": false
+        },
+        "API_HASH": {
+            "description": "كـود ايبي هـاش〔 Api hash 〕..",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }],
+    "buildpacks": [
+            {
+                "url": "heroku/python"
+            },
+            {
+                "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+            }
+        ]
+}
